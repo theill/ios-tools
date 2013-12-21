@@ -9,7 +9,10 @@ require 'nokogiri'
 # of your app.
 #
 # Usage:
-#   ruby -e 'AppStoreReviewSpy.new('402391159', '1.4.2').reviewers'
+#   ruby app_store_review_spy.rb <app_id> <version>
+#
+# Example:
+#   ruby app_store_review_spy.rb 402391159 1.4.2
 #
 class AppStoreReviewSpy
 

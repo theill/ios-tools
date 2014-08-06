@@ -1,5 +1,6 @@
-app_store_review_spy.rb
------------------------
+Collection of various tools for iOS development.
+
+### app_store_review_spy.rb
 
 Tool for checking reviewers (returns list of usernames) for a given release of your app. Requires 'nokogiri' gem. Use by it running
 
